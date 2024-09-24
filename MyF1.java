@@ -15,8 +15,7 @@ class MyF1
 	
 	MyF1()
 	{
-		Frame f=new Frame("graphics");
-			
+Frame f=new Frame("graphics");
 MyCanvas1 c=new MyCanvas1();
 		f.add(c);
 		f.setSize(400,400);

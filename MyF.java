@@ -7,7 +7,7 @@ Image i;
 MyCanvas()
 {
 Toolkit t=Toolkit.getDefaultToolkit();
-i=t.getImage("E:\\Manish123\\awtswing\\bealogo.gif");
+i=t.getImage("d:\\Manish123\\awtswing\\bealogo.gif");
 
 }
 public void paint(Graphics g)
